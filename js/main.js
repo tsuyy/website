@@ -256,24 +256,7 @@
                 enabled: true
             },
         });
-
-        //Form Controls
-        // $('.form-control')
-        //     .val('')
-        //     .on("focusin", function(){
-        //         $(this).parent('.form-group').addClass('form-group-focus');
-        //     })
-        //     .on("focusout", function(){
-        //         if($(this).val().length === 0) {
-        //             $(this).parent('.form-group').removeClass('form-group-focus');
-        //         }
-        //     });
-
-        //Google Maps
-        // $("#map").googleMap();
-        // $("#map").addMarker({
-        //     address: "15 avenue des champs Elysées 75008 Paris" // Your Address
-        // });
+        
     });
 
 })(jQuery);
