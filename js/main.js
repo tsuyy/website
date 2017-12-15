@@ -192,11 +192,6 @@
             animateIn: 'zoomIn'
         });
 
-        // Toggle collapse
-        $('.readmore').on('click', function () {
-          $($(this).data('target')).collapse('toggle');
-        });
-
         // Lightbox init
         $('body').magnificPopup({
             delegate: 'a.lightbox',
