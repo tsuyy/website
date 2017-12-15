@@ -82,9 +82,10 @@ a {
 }
 
 a:hover {
-  color: #FF9800;
+  color: #566a98;
   text-decoration: none;
   outline: none;
+  cursor: pointer;
 }
 
 a:focus {
