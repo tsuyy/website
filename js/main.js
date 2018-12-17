@@ -1,10 +1,3 @@
-/*
-* Template Name: PRO Card - Material Resume / CV / vCard Template
-* Author: lmpixels
-* Author URL: http://themeforest.net/user/lmpixels
-* Version: 1.0
-*/
-
 (function($) {
 "use strict";
     // Subpages resize
@@ -195,6 +188,7 @@
         // Toggle collapse
         $('.readmore').on('click touchstart', function () {
           $($(this).data('target')).collapse('toggle');
+          $(this).text($(this).text() == '+' ? '-' : '+');
         });
 
         // Lightbox init
