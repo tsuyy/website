@@ -2338,6 +2338,10 @@ blockquote footer, blockquote small, blockquote .small {
     background-color: #fff;
   }
 
+  .info-list li .value {
+    width: 11em;
+  }
+
   .home-page-block h2 {
     font-size: 60px;
   }
