@@ -2039,7 +2039,7 @@ blockquote footer, blockquote small, blockquote .small {
 .blog-post-content .post-image {
   max-width: 85%;
   height: auto;
-  margin: 18px 0 0 0;
+  margin: 18px 0 18px 0;
 }
 
 .blog-post-content .logo {
