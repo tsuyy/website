@@ -2047,6 +2047,18 @@ blockquote footer, blockquote small, blockquote .small {
   margin-bottom: 3em;
 }
 
+.blog-post-content .stellar {
+  margin: 1em 0 1em 0;
+}
+
+.blog-post-content .s-t {
+  margin-top: 2em!important;
+}
+
+.blog-post-content .s-p {
+  margin: 0 0 20px 0;
+}
+
 .entry-meta {
   color: #9e9e9e;
   margin: 20px 0 30px;
